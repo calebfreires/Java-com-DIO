@@ -18,17 +18,6 @@ dos conteúdos e desafios da [DIO](https://www.dio.me/).
 - Laços de repetição (`for`).
 - Classificação de níveis com base em uma pontuação.
 
-## Estrutura do projeto
-
-```text
-.
-├── src/
-│   ├── App.java
-│   └── ClassificacaoCredito.java
-└── .vscode/
-    └── settings.json
-```
-
 ## Como executar
 
 É necessário ter o JDK instalado. A partir da pasta do projeto, compile e
